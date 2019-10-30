@@ -6,7 +6,7 @@
   "author": "Benjamin Chibuzor-Orie <benjamin.node@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
